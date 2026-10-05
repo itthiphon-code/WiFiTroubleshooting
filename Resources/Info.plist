@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>th.local.WiFiTroubleshooting</string>
+<key>CFBundleName</key><string>Wi-Fi Troubleshooting</string>
+<key>CFBundleDisplayName</key><string>Wi-Fi Troubleshooting</string>
+<key>CFBundleExecutable</key><string>WiFiTroubleshooting</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.6.0</string>
+<key>CFBundleVersion</key><string>7</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSLocationUsageDescription</key><string>ใช้สิทธิ์ตำแหน่งเพื่ออ่านชื่อ Wi-Fi, BSSID และข้อมูลช่องสัญญาณในการสำรวจเครือข่าย ไม่บันทึกตำแหน่ง GPS</string>
+<key>NSLocationWhenInUseUsageDescription</key><string>ใช้สิทธิ์ตำแหน่งเพื่ออ่าน SSID และ BSSID ของ Wi-Fi สำหรับการวิเคราะห์และสำรวจพื้นที่</string>
+<key>NSLocalNetworkUsageDescription</key><string>ตรวจการเข้าถึง gateway ภายในเครือข่ายเมื่อคุณเริ่มวิเคราะห์ปัญหา</string>
+</dict></plist>
