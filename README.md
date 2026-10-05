@@ -4,6 +4,8 @@
 
 ## เปิดใช้งาน
 
+ดาวน์โหลด [แอปที่ build แล้ว รุ่น 1.6 สำหรับ macOS Apple Silicon](https://github.com/itthiphon-code/WiFiTroubleshooting/raw/refs/heads/main/dist/WiFiTroubleshooting-macOS-arm64.zip) แล้วแตก ZIP เพื่อเปิด `Wi-Fi Troubleshooting.app` (macOS 14+; ad-hoc signed และยังไม่ได้ notarize)
+
 ```sh
 ./scripts/build-app.sh
 open 'dist/Wi-Fi Troubleshooting.app'
